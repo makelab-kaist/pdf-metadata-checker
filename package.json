@@ -1,0 +1,16 @@
+{
+  "name": "pdf_metadata",
+  "version": "1.0.0",
+  "main": "inde.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "pdf-lib": "^1.17.1"
+  }
+}
